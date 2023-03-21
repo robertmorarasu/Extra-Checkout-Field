@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Extra checkout field
- * Plugin URI: https://github.com/robertmorarasu/Category-custom-banner
- * GitHub Plugin URI: https://github.com/robertmorarasu/Category-custom-banner
+ * Plugin URI: https://github.com/robertmorarasu/Extra-Checkout-Field
+ * GitHub Plugin URI: https://github.com/robertmorarasu/Extra-Checkout-Field
  * Description: A plugin that extends the functionality of WP-Woo, adds an extra field to the WooCommerce checkout page and saves the value of that field to the order meta data.
  * Author: Morarasu Robert
  * Copyright (c) 2023 [Morarasu Robert]
